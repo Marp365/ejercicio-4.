@@ -1,3 +1,5 @@
+Realiza un programa que almacene 20 números enteros (pueden repetirse) en un arreglo y calcule la frecuencia de aparición de cada número distinto.
+
 #include <iostream>
 using namespace std;
 
@@ -32,3 +34,4 @@ int main() {
 
     return 0;
 }
+
